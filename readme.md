@@ -12,5 +12,14 @@ Learn java spring-boot for rest web.
 - Run this to run the project
 
 ```sh
+# Using maven wrapper
 ./mvnw spring-boot:run
+# Using maven
+mvn package
+mvn spring-boot:run
 ```
+
+## References
+
+- https://spring.io/guides/gs/spring-boot/
+- https://spring.io/projects/spring-boot/
