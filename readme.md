@@ -23,3 +23,4 @@ mvn spring-boot:run
 
 - https://spring.io/guides/gs/spring-boot/
 - https://spring.io/projects/spring-boot/
+- https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html
